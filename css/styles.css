@@ -16,8 +16,7 @@ body {
     letter-spacing: 0.03em;
     color: #2196F3;
 }
-.header-emai:hover{
-    background: #2196F3;
+.header-emai {
     position: absolute;
     width: 135px;
     height: 16px;
@@ -35,8 +34,21 @@ body {
 
 }
 .header-tel {
-
+    position: absolute;
+    width: 122px;
+    height: 16px;
+    left: 1263px;
+    top: 32px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #757575;
 }
+
+
 .menu-nav:hover {
     background: #2196F3;
     position: absolute;
