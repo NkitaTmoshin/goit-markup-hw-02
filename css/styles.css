@@ -1,5 +1,6 @@
 body {
     font-family: 'Roboto';
+    color: black;
 }
 .logo {
     position: absolute;
@@ -35,4 +36,13 @@ body {
 
     color: #2196F3;
 
+}
+.menu-nav:hover {
+    background: #2196F3;
+    position: absolute;
+    width: 294px;
+    height: 16px;
+    left: 453px;
+    top: 32px;
+    
 }
